@@ -61,7 +61,7 @@ function Free() {
 						</li>
 					</ul>
 					<div className="d-grid">
-						<a href="javascript(void)" className="btn btn-primary text-uppercase">
+						<a href="javascript:void(0)" className="btn btn-primary text-uppercase">
 							Button
 						</a>
 					</div>
